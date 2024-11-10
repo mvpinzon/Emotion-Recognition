@@ -140,6 +140,6 @@ dmypy.json
 
 #Ignore this datasets
 
-/data/
+/audio_data/
 /test/
 /train/
