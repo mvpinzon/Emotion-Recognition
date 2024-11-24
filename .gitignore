@@ -144,8 +144,10 @@ dmypy.json
 /test/
 /train/
 /EmotionsDataset_Splitted/
+/faces/
 
 git rm -r --cached audio_data/
 git rm -r --cached test/
 git rm -r --cached train/
 git rm -r --cached EmotionsDataset_Splitted/
+git rm -r --cached faces/
