@@ -145,6 +145,7 @@ dmypy.json
 /train/
 /EmotionsDataset_Splitted/
 /faces/
+/shape_predictor_68_face_landmarks.dat/
 
 git rm -r --cached audio_data/
 git rm -r --cached test/
