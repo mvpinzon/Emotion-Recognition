@@ -146,6 +146,8 @@ dmypy.json
 /EmotionsDataset_Splitted/
 /faces/
 /shape_predictor_68_face_landmarks.dat/
+/Rafael_OLD/
+/English/
 
 git rm -r --cached audio_data/
 git rm -r --cached test/
